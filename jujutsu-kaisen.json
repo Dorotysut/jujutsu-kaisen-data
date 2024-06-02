@@ -1,1 +1,296 @@
+{
+  "manga": "Jujutsu Kaisen",
+  "source": "https://mangaworld.ac",
+  "volumi": [
+    {
+      "volume": 1,
+      "titolo": "Ryomen Sukuna",
+      "capitoli": [
+        "1. Ryomen Sukuna",
+        "2. Utero Temerario",
+        "3. Per Me Stesso",
+        "4. Utero Temerario, Parte 2"
+      ],
+      "data_uscita": "2018-07-04"
+    },
+    {
+      "volume": 2,
+      "titolo": "Utero Temerario",
+      "capitoli": [
+        "5. Utero Temerario, Parte 3",
+        "6. Dopo la Pioggia",
+        "7. Assalto",
+        "8. Trasfigurazione Inattiva"
+      ],
+      "data_uscita": "2018-09-04"
+    },
+    {
+      "volume": 3,
+      "titolo": "Pesce Giovane e Punizione Inversa",
+      "capitoli": [
+        "9. Pesce Giovane e Punizione Inversa",
+        "10. Quello in Mano",
+        "11. Domani",
+        "12. A Te, Un Giorno"
+      ],
+      "data_uscita": "2018-12-04"
+    },
+    {
+      "volume": 4,
+      "titolo": "Piccola Fry e Retribuzione Inversa",
+      "capitoli": [
+        "13. Piccola Fry e Retribuzione Inversa",
+        "14. Mente Ristretta",
+        "15. Saggio",
+        "16. L'Utero Maledetto Deve Morire"
+      ],
+      "data_uscita": "2019-03-04"
+    },
+    {
+      "volume": 5,
+      "titolo": "Evento di Scambio delle Scuole Sorelle di Kyoto - Battaglia di Gruppo 1",
+      "capitoli": [
+        "17. Evento di Scambio delle Scuole Sorelle di Kyoto - Battaglia di Gruppo 1",
+        "18. Evento di Scambio delle Scuole Sorelle di Kyoto - Battaglia di Gruppo 2",
+        "19. Evento di Scambio delle Scuole Sorelle di Kyoto - Battaglia di Gruppo 3",
+        "20. Evento di Scambio delle Scuole Sorelle di Kyoto - Battaglia di Gruppo 4"
+      ],
+      "data_uscita": "2019-05-02"
+    },
+    {
+      "volume": 6,
+      "titolo": "Flash Nero",
+      "capitoli": [
+        "21. Evento di Scambio delle Scuole Sorelle di Kyoto - Battaglia di Gruppo 5",
+        "22. Evento di Scambio delle Scuole Sorelle di Kyoto - Battaglia di Gruppo 6",
+        "23. Evento di Scambio delle Scuole Sorelle di Kyoto - Battaglia di Gruppo 7",
+        "24. Evento di Scambio delle Scuole Sorelle di Kyoto - Battaglia di Gruppo 8",
+        "25. Flash Nero"
+      ],
+      "data_uscita": "2019-07-04"
+    },
+    {
+      "volume": 7,
+      "titolo": "Origine dell'Obbedienza",
+      "capitoli": [
+        "26. Morte Prematura",
+        "27. Origine dell'Obbedienza",
+        "28. Origine dell'Obbedienza 2",
+        "29. Origine dell'Obbedienza 3"
+      ],
+      "data_uscita": "2019-09-04"
+    },
+    {
+      "volume": 8,
+      "titolo": "Inventario Nascosto",
+      "capitoli": [
+        "30. Inventario Nascosto",
+        "31. Inventario Nascosto 2",
+        "32. Inventario Nascosto 3",
+        "33. Inventario Nascosto 4",
+        "34. Inventario Nascosto 5"
+      ],
+      "data_uscita": "2019-11-01"
+    },
+    {
+      "volume": 9,
+      "titolo": "Incidente di Shibuya",
+      "capitoli": [
+        "35. Incidente di Shibuya",
+        "36. Incidente di Shibuya 2",
+        "37. Incidente di Shibuya 3",
+        "38. Incidente di Shibuya 4",
+        "39. Incidente di Shibuya 5"
+      ],
+      "data_uscita": "2020-01-04"
+    },
+    {
+      "volume": 10,
+      "titolo": "Incidente di Shibuya 2",
+      "capitoli": [
+        "40. Incidente di Shibuya 6",
+        "41. Incidente di Shibuya 7",
+        "42. Incidente di Shibuya 8",
+        "43. Incidente di Shibuya 9"
+      ],
+      "data_uscita": "2020-03-04"
+    },
+    {
+      "volume": 11,
+      "titolo": "Preparazione Perfetta",
+      "capitoli": [
+        "44. Preparazione Perfetta",
+        "45. Preparazione Perfetta 2",
+        "46. Preparazione Perfetta 3",
+        "47. Preparazione Perfetta 4"
+      ],
+      "data_uscita": "2020-05-02"
+    },
+    {
+      "volume": 12,
+      "titolo": "Preparazione Perfetta 2",
+      "capitoli": [
+        "48. Preparazione Perfetta 5",
+        "49. Preparazione Perfetta 6",
+        "50. Preparazione Perfetta 7",
+        "51. Preparazione Perfetta 8"
+      ],
+      "data_uscita": "2020-07-03"
+    },
+    {
+      "volume": 13,
+      "titolo": "Preparazione Perfetta 3",
+      "capitoli": [
+        "52. Preparazione Perfetta 9",
+        "53. Preparazione Perfetta 10",
+        "54. Preparazione Perfetta 11",
+        "55. Preparazione Perfetta 12"
+      ],
+      "data_uscita": "2020-09-04"
+    },
+    {
+      "volume": 14,
+      "titolo": "L'Incidente di Shibuya",
+      "capitoli": [
+        "56. L'Incidente di Shibuya 10",
+        "57. L'Incidente di Shibuya 11",
+        "58. L'Incidente di Shibuya 12",
+        "59. L'Incidente di Shibuya 13"
+      ],
+      "data_uscita": "2020-11-04"
+    },
+    {
+      "volume": 15,
+      "titolo": "L'Incidente di Shibuya 2",
+      "capitoli": [
+        "60. L'Incidente di Shibuya 14",
+        "61. L'Incidente di Shibuya 15",
+        "62. L'Incidente di Shibuya 16",
+        "63. L'Incidente di Shibuya 17"
+      ],
+      "data_uscita": "2021-01-04"
+    },
+    {
+      "volume": 16,
+      "titolo": "L'Incidente di Shibuya 3",
+      "capitoli": [
+        "64. L'Incidente di Shibuya 18",
+        "65. L'Incidente di Shibuya 19",
+        "66. L'Incidente di Shibuya 20",
+        "67. L'Incidente di Shibuya 21"
+      ],
+      "data_uscita": "2021-03-04"
+    },
+    {
+      "volume": 17,
+      "titolo": "L'Incidente di Shibuya 4",
+      "capitoli": [
+        "68. L'Incidente di Shibuya 22",
+        "69. L'Incidente di Shibuya 23",
+        "70. L'Incidente di Shibuya 24",
+        "71. L'Incidente di Shibuya 25"
+      ],
+      "data_uscita": "2021-05-02"
+    },
+    {
+      "volume": 18,
+      "titolo": "L'Incidente di Shibuya 5",
+      "capitoli": [
+        "72. L'Incidente di Shibuya 26",
+        "73. L'Incidente di Shibuya 27",
+        "74. L'Incidente di Shibuya 28",
+        "75. L'Incidente di Shibuya 29"
+      ],
+      "data_uscita": "2021-07-03"
+    },
+    {
+      "volume": 19,
+      "titolo": "Colonia di Tokyo",
+      "capitoli": [
+        "76. Colonia di Tokyo",
+        "77. Colonia di Tokyo 2",
+        "78. Colonia di Tokyo 3",
+        "79. Colonia di Tokyo 4"
+      ],
+      "data_uscita": "2021-09-04"
+    },
+    {
+      "volume": 20,
+      "titolo": "Colonia di Tokyo 2",
+      "capitoli": [
+        "80. Colonia di Tokyo 5",
+        "81. Colonia di Tokyo 6",
+        "82. Colonia di Tokyo 7",
+        "83. Colonia di Tokyo 8"
+      ],
+      "data_uscita": "2021-11-04"
+    },
+    {
+      "volume": 21,
+      "titolo": "Colonia di Tokyo 3",
+      "capitoli": [
+        "84. Colonia di Tokyo 9",
+        "85. Colonia di Tokyo 10",
+        "86. Colonia di Tokyo 11",
+        "87. Colonia di Tokyo 12"
+      ],
+      "data_uscita": "2022-01-04"
+    },
+    {
+      "volume": 22,
+      "titolo": "Colonia di Tokyo 4",
+      "capitoli": [
+        "88. Colonia di Tokyo 13",
+        "89. Colonia di Tokyo 14",
+        "90. Colonia di Tokyo 15",
+        "91. Colonia di Tokyo 16"
+      ],
+      "data_uscita": "2022-03-04"
+    },
+    {
+      "volume": 23,
+      "titolo": "Colonia di Tokyo 5",
+      "capitoli": [
+        "92. Colonia di Tokyo 17",
+        "93. Colonia di Tokyo 18",
+        "94. Colonia di Tokyo 19",
+        "95. Colonia di Tokyo 20"
+      ],
+      "data_uscita": "2022-05-04"
+    },
+    {
+      "volume": 24,
+      "titolo": "Colonia di Tokyo 6",
+      "capitoli": [
+        "96. Colonia di Tokyo 21",
+        "97. Colonia di Tokyo 22",
+        "98. Colonia di Tokyo 23",
+        "99. Colonia di Tokyo 24"
+      ],
+      "data_uscita": "2022-07-04"
+    },
+    {
+      "volume": 25,
+      "titolo": "Colonia di Tokyo 7",
+      "capitoli": [
+        "100. Colonia di Tokyo 25",
+        "101. Colonia di Tokyo 26",
+        "102. Colonia di Tokyo 27",
+        "103. Colonia di Tokyo 28"
+      ],
+      "data_uscita": "2022-09-04"
+    },
+    {
+      "volume": 26,
+      "titolo": "Colonia di Tokyo 8",
+      "capitoli": [
+        "104. Colonia di Tokyo 29",
+        "105. Colonia di Tokyo 30",
+        "106. Colonia di Tokyo 31",
+        "107. Colonia di Tokyo 32"
+      ],
+      "data_uscita": "2022-11-04"
+    }
+  ]
+}
 
